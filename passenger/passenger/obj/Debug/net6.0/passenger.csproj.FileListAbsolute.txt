@@ -1,0 +1,15 @@
+C:\Users\nithu.kb\source\repos\passenger\passenger\bin\Debug\net6.0\passenger.exe
+C:\Users\nithu.kb\source\repos\passenger\passenger\bin\Debug\net6.0\passenger.deps.json
+C:\Users\nithu.kb\source\repos\passenger\passenger\bin\Debug\net6.0\passenger.runtimeconfig.json
+C:\Users\nithu.kb\source\repos\passenger\passenger\bin\Debug\net6.0\passenger.dll
+C:\Users\nithu.kb\source\repos\passenger\passenger\bin\Debug\net6.0\passenger.pdb
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.csproj.AssemblyReference.cache
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.AssemblyInfoInputs.cache
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.AssemblyInfo.cs
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.csproj.CoreCompileInputs.cache
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.dll
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\refint\passenger.dll
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.pdb
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\passenger.genruntimeconfig.cache
+C:\Users\nithu.kb\source\repos\passenger\passenger\obj\Debug\net6.0\ref\passenger.dll

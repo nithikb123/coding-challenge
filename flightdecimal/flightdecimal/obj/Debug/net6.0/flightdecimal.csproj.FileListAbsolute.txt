@@ -1,0 +1,15 @@
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\bin\Debug\net6.0\flightdecimal.exe
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\bin\Debug\net6.0\flightdecimal.deps.json
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\bin\Debug\net6.0\flightdecimal.runtimeconfig.json
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\bin\Debug\net6.0\flightdecimal.dll
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\bin\Debug\net6.0\flightdecimal.pdb
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.csproj.AssemblyReference.cache
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.AssemblyInfoInputs.cache
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.AssemblyInfo.cs
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.csproj.CoreCompileInputs.cache
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.dll
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\refint\flightdecimal.dll
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.pdb
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\flightdecimal.genruntimeconfig.cache
+C:\Users\nithu.kb\source\repos\flightdecimal\flightdecimal\obj\Debug\net6.0\ref\flightdecimal.dll

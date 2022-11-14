@@ -1,0 +1,15 @@
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\bin\Debug\net6.0\oddeven.exe
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\bin\Debug\net6.0\oddeven.deps.json
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\bin\Debug\net6.0\oddeven.runtimeconfig.json
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\bin\Debug\net6.0\oddeven.dll
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\bin\Debug\net6.0\oddeven.pdb
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.csproj.AssemblyReference.cache
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.AssemblyInfoInputs.cache
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.AssemblyInfo.cs
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.csproj.CoreCompileInputs.cache
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.dll
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\refint\oddeven.dll
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.pdb
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\oddeven.genruntimeconfig.cache
+C:\Users\nithu.kb\source\repos\oddeven\oddeven\obj\Debug\net6.0\ref\oddeven.dll

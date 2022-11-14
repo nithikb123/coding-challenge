@@ -1,0 +1,15 @@
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\bin\Debug\net6.0\flightfare.exe
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\bin\Debug\net6.0\flightfare.deps.json
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\bin\Debug\net6.0\flightfare.runtimeconfig.json
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\bin\Debug\net6.0\flightfare.dll
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\bin\Debug\net6.0\flightfare.pdb
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.csproj.AssemblyReference.cache
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.AssemblyInfoInputs.cache
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.AssemblyInfo.cs
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.csproj.CoreCompileInputs.cache
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.dll
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\refint\flightfare.dll
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.pdb
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\flightfare.genruntimeconfig.cache
+C:\Users\nithu.kb\source\repos\flightfare\flightfare\obj\Debug\net6.0\ref\flightfare.dll
