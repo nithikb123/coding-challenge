@@ -1,0 +1,15 @@
+C:\Users\nithu.kb\source\repos\Dob\Dob\bin\Debug\net6.0\Dob.exe
+C:\Users\nithu.kb\source\repos\Dob\Dob\bin\Debug\net6.0\Dob.deps.json
+C:\Users\nithu.kb\source\repos\Dob\Dob\bin\Debug\net6.0\Dob.runtimeconfig.json
+C:\Users\nithu.kb\source\repos\Dob\Dob\bin\Debug\net6.0\Dob.dll
+C:\Users\nithu.kb\source\repos\Dob\Dob\bin\Debug\net6.0\Dob.pdb
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.csproj.AssemblyReference.cache
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.AssemblyInfoInputs.cache
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.AssemblyInfo.cs
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.csproj.CoreCompileInputs.cache
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.dll
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\refint\Dob.dll
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.pdb
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\Dob.genruntimeconfig.cache
+C:\Users\nithu.kb\source\repos\Dob\Dob\obj\Debug\net6.0\ref\Dob.dll
